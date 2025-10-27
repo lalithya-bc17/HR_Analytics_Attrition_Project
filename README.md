@@ -51,7 +51,7 @@ By analyzing HR data, this project provides insights to improve *employee satisf
 |:-----------|:-------------|
 | HR_Attrition_Analysis.ipynb | Executed notebook with code, outputs, and SHAP graphs |
 | HR_Analytics_Attrition_Report_LalithyaBC.pdf | Final 2-page professional report |
-| WA_Fn-UseC_-HR-Employee-Attrition.csv | Dataset used for model training (optional) |
+| WA_Fn-UseC_-HR-Employee-Attrition.csv | Dataset used for model training  |
 
 ## 🏁 Conclusion
 - Logistic Regression achieved *87.8 % accuracy* and was selected as the final model.  
