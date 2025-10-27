@@ -8,7 +8,8 @@
   ⚠️ GitHub may not display all notebook outputs due to file size.  
   Click the “Open in Colab” button above to view the complete executed notebook with all results and visualizations.
 </p>
-[📘 View Notebook on GitHub](https://github.com/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb)
+[📘 View Notebook on GitHub]
+(https://github.com/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb)
 
 # 💼 HR Analytics – Predict Employee Attrition
 
