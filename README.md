@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://colab.research.google.com/github/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+[📘 View Notebook on GitHub](https://github.com/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb)
 ### 🔗 Quick Access  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb)
 [📘 View Notebook on GitHub](https://github.com/lalithya-bc17/HR_Analytics_Attrition_Project/blob/main/HR_Attrition_Analysis.ipynb)
